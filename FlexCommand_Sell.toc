@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: FlexCommand_Sell
+## Notes: FlexCommand Extension: Sell items to vendor.
+## Author: HE Yaowen <he.yaowen@hotmail.com>
+## Version: 1.0.0
+
+main.lua
